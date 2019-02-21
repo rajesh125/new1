@@ -10,7 +10,7 @@
  
 <body>
  
-<h1> The Fish Web Site </h1>
+<h1> The web Site </h1>
  
 <p class="blue underline"> Welcome to the Fish Web Site. Everything
 you want to know about fish is in this web site.    </p>
